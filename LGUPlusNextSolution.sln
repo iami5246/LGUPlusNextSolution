@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWindowsFormsApp", "SampleWindowsFormsApp\SampleWindowsFormsApp.csproj", "{790159B5-AACB-4D9E-84F8-1472BB5F90C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfXAMLApp", "WpfXAMLApp\WpfXAMLApp.csproj", "{46252C2E-5A17-469D-B5D6-7B3764DE03C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMVVMBaseApp", "WpfMVVMBaseApp\WpfMVVMBaseApp.csproj", "{F940A219-7CF7-4386-8CDE-63E98952B58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMVVMLightApp", "WpfMVVMLightApp\WpfMVVMLightApp.csproj", "{AB3E3010-13DA-44DB-8DEE-CDD781F93182}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{790159B5-AACB-4D9E-84F8-1472BB5F90C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{790159B5-AACB-4D9E-84F8-1472BB5F90C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{790159B5-AACB-4D9E-84F8-1472BB5F90C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46252C2E-5A17-469D-B5D6-7B3764DE03C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46252C2E-5A17-469D-B5D6-7B3764DE03C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46252C2E-5A17-469D-B5D6-7B3764DE03C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46252C2E-5A17-469D-B5D6-7B3764DE03C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F940A219-7CF7-4386-8CDE-63E98952B58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F940A219-7CF7-4386-8CDE-63E98952B58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F940A219-7CF7-4386-8CDE-63E98952B58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F940A219-7CF7-4386-8CDE-63E98952B58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3E3010-13DA-44DB-8DEE-CDD781F93182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3E3010-13DA-44DB-8DEE-CDD781F93182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3E3010-13DA-44DB-8DEE-CDD781F93182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3E3010-13DA-44DB-8DEE-CDD781F93182}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
